@@ -1,10 +1,6 @@
 # OKR React-Antd
 
-This project is a basic screen built with Vite, React, and Chakra UI. It's designed to serve as a starting point for web applications that benefit from Vite's fast build tool, React's component-based architecture, and Antd simple, modular, and accessible component library.
-
-## Description
-
-Provide a brief description of your project. Explain the purpose of the project, its target audience, and any unique features or functionality it offers.
+This project is a basic screen built with Vite, React, and Ant Design. It's designed to serve as a starting point for web applications that benefit from Vite's fast build tool, React's component-based architecture, and Antd simple, modular, and accessible component library.
 
 ## Features
 
